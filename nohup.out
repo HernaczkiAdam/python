@@ -1,0 +1,5 @@
+Proxy server listening at *:8080
+127.0.0.1:59886: client connect
+127.0.0.1:59886: server connect api.thecatapi.com:443 (172.67.165.7:443)
+127.0.0.1:59886: GET https://api.thecatapi.com/v1/breeds
+              << 200 OK 15.0k
